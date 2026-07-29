@@ -23,52 +23,7 @@
 <hr>
 
 <p align="center">
-  <svg width="400" height="70" viewBox="0 0 400 70" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <style>
-        @import url('https://fonts.googleapis.com/css2?family=Ultra&amp;display=swap');
-        @keyframes enterAndDissolve {
-          0% {
-            transform: translateX(-150px) scale(0.8);
-            opacity: 0;
-            filter: blur(8px);
-          }
-          20% {
-            transform: translateX(0) scale(1);
-            opacity: 1;
-            filter: blur(0px);
-          }
-          75% {
-            transform: translateX(0) scale(1);
-            opacity: 1;
-            filter: blur(0px);
-          }
-          88% {
-            transform: scale(1.15) translateY(-5px);
-            opacity: 0.3;
-            filter: blur(12px) drop-shadow(0 0 15px rgba(245, 128, 37, 0.9));
-          }
-          100% {
-            transform: scale(1.3) translateY(-10px);
-            opacity: 0;
-            filter: blur(25px);
-          }
-        }
-        .tools-text {
-          font-family: 'Ultra', serif;
-          font-size: 34px;
-          text-anchor: middle;
-          dominant-baseline: middle;
-          animation: enterAndDissolve 4.5s ease-in-out infinite;
-          fill: #FFFFFF;                  /* لون النص الداخلي */
-          stroke: #F58025;                /* لون الـ Outline البرتقالي */
-          stroke-width: 1.5px;            /* سمك الـ Outline */
-          paint-order: stroke fill;
-        }
-      </style>
-    </defs>
-    <text x="50%" y="50%" class="tools-text">TOOLS ONLINE</text>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Ultra&size=32&pause=5&color=FFFFFF&stroke=000000&strokeWidth=1.5&center=true&vcenter=true&width=300&height=50&lines=TOOLS" alt="TOOLS" />
 </p>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
