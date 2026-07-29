@@ -64,15 +64,14 @@ class About extends Me {
 ```
 <a  href="https://github.com/SP-XD">
 
-<!-- GitHub Profile Summary Cards -->
 <div align="center">
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="100%" alt="Stats Cards"/>
+        <img src="https://raw.githubusercontent.com/MohamedHytham/MohamedHytham/master/profile-summary-card-output/nord_dark/3-stats.svg" width="100%" alt="Stats"/>
       </td>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="100%" alt="Repos Per Language"/>
+        <img src="https://raw.githubusercontent.com/MohamedHytham/MohamedHytham/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="100%" alt="Repos Per Language"/>
       </td>
     </tr>
   </table>
