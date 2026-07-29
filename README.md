@@ -22,9 +22,21 @@
 
 <hr>
 
-<h2 align="center" style="font-family: 'Impact', 'Arial Black', sans-serif; font-size: 28px; letter-spacing: 2px;">
-  🛠️ TOOLS
-</h2>
+<p align="center">
+  <svg width="300" height="60" viewBox="0 0 300 60" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Ultra&amp;display=swap');
+      .tools-text {
+        font-family: 'Ultra', serif;
+        font-size: 32px;
+        fill: #F58025; /* اللون البرتقالي الماشي مع الـ Bio بتاعك */
+        text-anchor: middle;
+        dominant-baseline: middle;
+      }
+    </style>
+    <text x="50%" y="50%" class="tools-text">🛠️ TOOLS</text>
+  </svg>
+</p>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
