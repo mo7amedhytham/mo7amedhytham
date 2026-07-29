@@ -9,7 +9,7 @@ to my personal GitHub profile!
 
 <h3 align="center">
 <a href="">Visit my personal homepage
-<img src="Planet Earth GIF by European Space Agency - ESA.gif" alt="Visit homepage" align="center">
+<img src="my.gif" alt="Visit homepage" align="center">
 </a>
 </h3>
 
