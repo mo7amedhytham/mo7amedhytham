@@ -20,23 +20,11 @@
 
 </div>
 
-<p align="center">
-  <svg width="200" height="50" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Ultra&amp;display=swap');
-      .header-text {
-        font-family: 'Ultra', serif;
-        font-size: 28px;
-        fill: #f58025;
-        text-anchor: middle;
-        dominant-baseline: middle;
-      }
-    </style>
-    <text x="50%" y="50%" class="header-text">TOOLS</text>
-  </svg>
-</p>
-
 <hr>
+
+<h2 align="center" style="font-family: 'Impact', 'Arial Black', sans-serif; font-size: 28px; letter-spacing: 2px;">
+  🛠️ TOOLS
+</h2>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
