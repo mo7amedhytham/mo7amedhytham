@@ -26,7 +26,7 @@
 <br>
 
 </div>
-<h2 style="font-family: "Ultra", serif;font-weight: 400;font-style: normal;">TOOLS</h2>
+<h2>TOOLS</h2>
 <hr></hr>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
@@ -64,3 +64,13 @@ class About extends Me {
     "Tools & Workflow"   : [ "VS Code", "Git", "Antigravity" ]
   };
 }
+
+```
+<style>
+  h2{
+    font-family: "Ultra", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+  }
+</style>
