@@ -1,3 +1,9 @@
+<head>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Ultra&display=swap" rel="stylesheet">
+</head>
+
 <div align="center" width="50">
 
 <img src="my.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
@@ -20,7 +26,7 @@
 <br>
 
 </div>
-
+<h2 style="font-family: "Ultra", serif;font-weight: 400;font-style: normal;">TOOLS</h2>
 <hr></hr>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
