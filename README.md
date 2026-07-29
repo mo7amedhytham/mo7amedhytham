@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xvYnN5Y2U1d29xdWRqbXJ2NWZqZWx3NmgxNnhzNHUwZHZ1MmdkaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V4NSR1NG2p0KeJJyr5/giphy.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="my.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 
 
 <details>
