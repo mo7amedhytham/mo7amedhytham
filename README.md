@@ -25,7 +25,7 @@
 <p align="center">
   <svg width="300" height="60" viewBox="0 0 300 60" xmlns="http://www.w3.org/2000/svg">
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Ultra&display=swap');
+      @import url('https://fonts.gstatic.com/s/ultra/v25/zOLy4prXmrtY-uTzwrKz6A.woff2');
       .tools-text {
         font-family: 'Ultra', serif;
         font-size: 32px;
