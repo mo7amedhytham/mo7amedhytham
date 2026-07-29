@@ -23,19 +23,7 @@
 <hr>
 
 <p align="center">
-  <svg width="300" height="60" viewBox="0 0 300 60" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      @import url('https://fonts.gstatic.com/s/ultra/v25/zOLy4prXmrtY-uTzwrKz6A.woff2');
-      .tools-text {
-        font-family: 'Ultra', serif;
-        font-size: 32px;
-        fill: #F58025; /* اللون البرتقالي الماشي مع الـ Bio بتاعك */
-        text-anchor: middle;
-        dominant-baseline: middle;
-      }
-    </style>
-    <text x="50%" y="50%" class="tools-text">🛠️ TOOLS</text>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Ultra&size=30&pause=1000&color=F58025&center=true&vcenter=true&width=300&height=50&lines=%F0%9F%9B%A0%EF%B8%8F+TOOLS" alt="TOOLS" />
 </p>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
