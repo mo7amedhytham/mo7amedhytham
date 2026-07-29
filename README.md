@@ -9,7 +9,7 @@ to my personal GitHub profile!
 
 <h3 align="center">
 <a href="">Visit my personal homepage
-<img src="my.gif" alt="Visit homepage" align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNidWxmZGE5Nmw3NDgzdzk1aTR2Y2hwNTd5ZGVubTc1eTR3M2owNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zwoRf2Ww6LPk4tCL9m/giphy.gif" alt="Visit homepage" align="center">
 </a>
 </h3>
 
