@@ -62,21 +62,15 @@ class About extends Me {
   };
 }
 ```
-<a  href="https://github.com/SP-XD">
+<a  href="https://github.com/mo7amedhytham">
+
+<!-- Profile Summary Cards Row -->
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/MohamedHytham/MohamedHytham/master/profile-summary-card-output/nord_dark/3-stats.svg" width="100%" alt="Stats"/>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/MohamedHytham/MohamedHytham/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="100%" alt="Repos Per Language"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://raw.githubusercontent.com/mo7amedhytham/mo7amedhytham/main/profile-summary-card-output/radical/3-stats.svg" width="33%" alt="Stats"/>
+  <img src="https://raw.githubusercontent.com/mo7amedhytham/mo7amedhytham/main/profile-summary-card-output/radical/4-productive-time.svg" width="33%" alt="Productive Time"/>
+  <img src="https://raw.githubusercontent.com/mo7amedhytham/mo7amedhytham/main/profile-summary-card-output/radical/1-repos-per-language.svg" width="33%" alt="Repos Per Language"/>
 </div>
-
 
 <p align="center">
   <sub><b>Made with ❤️ by MohamedHytham</b></sub>
