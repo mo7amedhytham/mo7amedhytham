@@ -1,13 +1,6 @@
-<head>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Ultra&display=swap" rel="stylesheet">
-</head>
-
 <div align="center" width="50">
 
 <img src="my.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-
 
 <details>
 <summary><strong> 🎧 Busy coding & Vibing </strong></summary>
@@ -26,8 +19,24 @@
 <br>
 
 </div>
-<h2>TOOLS</h2>
-<hr></hr>
+
+<p align="center">
+  <svg width="200" height="50" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Ultra&amp;display=swap');
+      .header-text {
+        font-family: 'Ultra', serif;
+        font-size: 28px;
+        fill: #f58025;
+        text-anchor: middle;
+        dominant-baseline: middle;
+      }
+    </style>
+    <text x="50%" y="50%" class="header-text">TOOLS</text>
+  </svg>
+</p>
+
+<hr>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
@@ -64,13 +73,3 @@ class About extends Me {
     "Tools & Workflow"   : [ "VS Code", "Git", "Antigravity" ]
   };
 }
-
-```
-<style>
-  h2{
-    font-family: "Ultra", serif;
-    font-weight: 400;
-    font-style: normal;
-    text-align: center;
-  }
-</style>
