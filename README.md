@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
+
 
 <details>
 <summary><strong> 🎧 Busy coding & Vibing </strong></summary>
@@ -10,8 +10,15 @@
 
 </details>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=MohamedHytham&style=flat&color=orange&label=PROFILE+VIEWS)
-[![X Badge](https://img.shields.io/badge/MohamedHytham-black?style=flat&logo=x)](https://x.com/Mo324HY) <br>
+![Totals Hits](https://komarev.com/ghpvc/?username=MohamedHytham&style=flat&color=orange&label=PROFILE+VIEWS) <br>
+
+<!-- Social Media Badges -->
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Mo324HY)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61574824599966)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32127774/mohamedhytham)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/Old-Lawyer9813/)
+<br>
+
 </div>
 
 <hr></hr>
