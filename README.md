@@ -67,7 +67,7 @@ class About extends Me {
 <!-- Profile Summary Cards Row -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mo7amedhytham/mo7amedhytham/main/profile-summary-card-output/radical/3-stats.svg" width="33%" alt="Stats"/>
+  <img src="https://raw.githubusercontent.com/mo7amedhytham/mo7amedhytham/main/profile-summary-card-output/radical/2-most-commit-language.svg" width="33%" alt="Stats"/>
   <img src="https://raw.githubusercontent.com/mo7amedhytham/mo7amedhytham/main/profile-summary-card-output/radical/4-productive-time.svg" width="33%" alt="Productive Time"/>
   <img src="https://raw.githubusercontent.com/mo7amedhytham/mo7amedhytham/main/profile-summary-card-output/radical/1-repos-per-language.svg" width="33%" alt="Repos Per Language"/>
 </div>
